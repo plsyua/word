@@ -7,6 +7,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
+*.pyc
+*.pyo
+*.pyd
+
+# PyQt/Qt
+*.pro.user
+*.ui.bak
+*.qrc.bak
 
 # Database
 *.db
