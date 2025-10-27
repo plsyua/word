@@ -1,0 +1,20 @@
+# GUI Framework
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+
+# Data Processing - Python 3.12 호환 버전
+pandas>=2.2.0
+
+# Visualization - Python 3.12 호환 버전
+matplotlib>=3.8.0
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Logging
+python-json-logger==2.0.7
+
+# Date/Time
+python-dateutil==2.8.2
